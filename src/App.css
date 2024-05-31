@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+li {
+    font-family: "Open Sans", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+}
+
+
+h3 {
+    font-family: "Open Sans", sans-serif;
+}
+
+
+
+
